@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SonySinghh
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python & SQL projects 
+- 🗣 Reach out to me on sonyy.srccgbo@gmail.com 
